@@ -15,7 +15,7 @@ public final class R {
 		public static final int slideLeft = 0x7f100016;
 	}
 	public static final class string {
-		public static final int hello = 0x7f0e01bc;
+		public static final int hello = 0x7f0e01c0;
 		public static final int app_name = 0x7f0e010d;
 	}
 	public static final class layout {

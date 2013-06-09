@@ -843,6 +843,7 @@ public final class R {
 	}
 	public static final class string {
 		public static final int remember_location_no = 0x7f0e010b;
+		public static final int pref_camera_smartreceipts_max_dimension_size_512px = 0x7f0e01af;
 		public static final int wait = 0x7f0e0062;
 		public static final int compare_original = 0x7f0e0011;
 		public static final int sync_picasa_albums = 0x7f0e015c;
@@ -965,8 +966,8 @@ public final class R {
 		public static final int pref_camera_scenemode_entry_action = 0x7f0e009d;
 		public static final int apply_effect = 0x7f0e0012;
 		public static final int pref_camera_id_title = 0x7f0e0069;
-		public static final int orientation = 0x7f0e0165;
 		public static final int size_below = 0x7f0e0186;
+		public static final int orientation = 0x7f0e0165;
 		public static final int effect_backdropper_gallery = 0x7f0e00bf;
 		public static final int pref_video_quality_entry_low = 0x7f0e0079;
 		public static final int pref_video_time_lapse_frame_interval_86400000 = 0x7f0e0102;
@@ -1017,7 +1018,9 @@ public final class R {
 		public static final int select_video = 0x7f0e0126;
 		public static final int accessibility_mode_picker = 0x7f0e00ca;
 		public static final int pref_camera_picturesize_entry_2mp = 0x7f0e0082;
+		public static final int smartreceipts_error_photo_error = 0x7f0e01b5;
 		public static final int none = 0x7f0e002a;
+		public static final int smartreceipts_error_media_server_died = 0x7f0e01b4;
 		public static final int pref_camera_picturesize_entry_3mp = 0x7f0e0081;
 		public static final int pref_camera_id_default = 0x7f0e006a;
 		public static final int history_original = 0x7f0e000f;
@@ -1070,7 +1073,7 @@ public final class R {
 		public static final int save_into = 0x7f0e01a9;
 		public static final int time_lapse_seconds = 0x7f0e0103;
 		public static final int accessibility_review_ok = 0x7f0e00d6;
-		public static final int pref_camera_smartreceipts_max_dimension_size_1024px_value = 0x7f0e01b0;
+		public static final int pref_camera_smartreceipts_max_dimension_size_1024px_value = 0x7f0e01b1;
 		public static final int pano_review_rendering = 0x7f0e00b2;
 		public static final int video_file_name_format = 0x7f0e00a8;
 		public static final int pano_dialog_waiting_previous = 0x7f0e00b0;
@@ -1084,6 +1087,7 @@ public final class R {
 		public static final int set_label_mtp_devices = 0x7f0e0183;
 		public static final int grayscale = 0x7f0e0045;
 		public static final int curves_channel_green = 0x7f0e002d;
+		public static final int pref_camera_smartreceipts_max_dimension_size_512px_value = 0x7f0e01b2;
 		public static final int set_label_picasa_albums = 0x7f0e0184;
 		public static final int no_thumbnail = 0x7f0e011b;
 		public static final int pref_camera_scenemode_entry_sunset = 0x7f0e009f;
@@ -1094,7 +1098,7 @@ public final class R {
 		public static final int pref_video_time_lapse_frame_interval_90000 = 0x7f0e00eb;
 		public static final int accessibility_switch_to_video = 0x7f0e00d2;
 		public static final int details_hms = 0x7f0e0110;
-		public static final int pref_camera_smartreceipts_max_dimension_size_default_value = 0x7f0e01b1;
+		public static final int pref_camera_smartreceipts_max_dimension_size_default_value = 0x7f0e01b3;
 		public static final int camera_setas_wallpaper = 0x7f0e012d;
 		public static final int pref_video_time_lapse_frame_interval_7200000 = 0x7f0e00f9;
 		public static final int tinyplanet = 0x7f0e001e;
@@ -1161,7 +1165,7 @@ public final class R {
 		public static final int review_ok = 0x7f0e0067;
 		public static final int pref_video_time_lapse_frame_interval_3000 = 0x7f0e00e1;
 		public static final int pref_video_quality_entry_480p = 0x7f0e0077;
-		public static final int pref_camera_smartreceipts_max_dimension_size_default = 0x7f0e01af;
+		public static final int pref_camera_smartreceipts_max_dimension_size_default = 0x7f0e01b0;
 		public static final int posterize = 0x7f0e004a;
 		public static final int remember_location_yes = 0x7f0e010c;
 		public static final int grain = 0x7f0e0044;

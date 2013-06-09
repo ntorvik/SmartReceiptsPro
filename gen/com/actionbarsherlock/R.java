@@ -157,16 +157,16 @@ public final class R {
 		public static final int abs__background_holo_dark = 0x7f0b004a;
 	}
 	public static final class string {
-		public static final int abs__activitychooserview_choose_application = 0x7f0e01b9;
-		public static final int abs__action_bar_up_description = 0x7f0e01b3;
-		public static final int abs__share_action_provider_share_with = 0x7f0e01b8;
-		public static final int abs__action_menu_overflow_description = 0x7f0e01b4;
-		public static final int abs__action_mode_done = 0x7f0e01b5;
-		public static final int abs__activity_chooser_view_dialog_title_default = 0x7f0e01b7;
-		public static final int abs__shareactionprovider_share_with_application = 0x7f0e01bb;
-		public static final int abs__shareactionprovider_share_with = 0x7f0e01ba;
-		public static final int abs__action_bar_home_description = 0x7f0e01b2;
-		public static final int abs__activity_chooser_view_see_all = 0x7f0e01b6;
+		public static final int abs__activitychooserview_choose_application = 0x7f0e01bd;
+		public static final int abs__action_bar_up_description = 0x7f0e01b7;
+		public static final int abs__share_action_provider_share_with = 0x7f0e01bc;
+		public static final int abs__action_menu_overflow_description = 0x7f0e01b8;
+		public static final int abs__action_mode_done = 0x7f0e01b9;
+		public static final int abs__activity_chooser_view_dialog_title_default = 0x7f0e01bb;
+		public static final int abs__shareactionprovider_share_with_application = 0x7f0e01bf;
+		public static final int abs__shareactionprovider_share_with = 0x7f0e01be;
+		public static final int abs__action_bar_home_description = 0x7f0e01b6;
+		public static final int abs__activity_chooser_view_see_all = 0x7f0e01ba;
 	}
 	public static final class layout {
 		public static final int abs__list_menu_item_radio = 0x7f04000e;
