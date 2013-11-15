@@ -39,17 +39,12 @@ public class SmartReceiptsActivityPRO extends SmartReceiptsActivity{
     @Override
     protected final void onCreate(final Bundle savedInstanceState) {
         this.setContentView(R.layout.main);
-	    RelativeLayout mainLayout = (RelativeLayout) this.findViewById(R.id.main_layout);
-        ListView listView = (ListView) this.findViewById(R.id.listview);
-        super.onCreate(savedInstanceState, mainLayout, listView);
+	    //RelativeLayout mainLayout = (RelativeLayout) this.findViewById(R.id.main_layout);
+        //ListView listView = (ListView) this.findViewById(R.id.listview);
+        super.onCreate(savedInstanceState, null, null);
         Intent intent = new Intent();
         intent.setAction(FILTER_ACTION);
         sendBroadcast(intent);
     }
-
-	@Override
-	public String getPackageName() {
-		return this.getClass().getPackage().getName().toString();
-	}
     
 }
