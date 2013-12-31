@@ -8,31 +8,31 @@ package wb.android.camera;
 
 public final class R {
 	public static final class attr {
-		public static final int dragndrop_background = 0x7f010061;
-		public static final int expanded_height = 0x7f01005f;
-		public static final int grabber = 0x7f010060;
-		public static final int normal_height = 0x7f01005e;
-		public static final int remove_mode = 0x7f010062;
+		public static final int dragndrop_background = 0x7f010010;
+		public static final int expanded_height = 0x7f01000e;
+		public static final int grabber = 0x7f01000f;
+		public static final int normal_height = 0x7f01000d;
+		public static final int remove_mode = 0x7f010011;
 	}
 	public static final class drawable {
-		public static final int icon = 0x7f020136;
+		public static final int icon = 0x7f02015a;
 	}
 	public static final class id {
-		public static final int fling = 0x7f100013;
-		public static final int none = 0x7f100012;
-		public static final int slide = 0x7f100014;
-		public static final int slideLeft = 0x7f100016;
-		public static final int slideRight = 0x7f100015;
+		public static final int fling = 0x7f100003;
+		public static final int none = 0x7f100002;
+		public static final int slide = 0x7f100004;
+		public static final int slideLeft = 0x7f100006;
+		public static final int slideRight = 0x7f100005;
 	}
 	public static final class layout {
-		public static final int main = 0x7f040035;
+		public static final int main = 0x7f04003a;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f0e010d;
-		public static final int hello = 0x7f0e01c0;
+		public static final int hello = 0x7f0e01b6;
 	}
 	public static final class styleable {
-		public static final int[] TouchListView = { 0x7f01005e, 0x7f01005f, 0x7f010060, 0x7f010061, 0x7f010062 };
+		public static final int[] TouchListView = { 0x7f01000d, 0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011 };
 		public static final int TouchListView_dragndrop_background = 3;
 		public static final int TouchListView_expanded_height = 1;
 		public static final int TouchListView_grabber = 2;
