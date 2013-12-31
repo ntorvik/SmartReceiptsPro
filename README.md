@@ -6,7 +6,7 @@ Overview
 
 The code presented in this repository is what is used to actually build the Smart Receipts PRO APK file. In order to minimize the challenges of maintaining a single code base for two APK files (the free and paid versions of Smart Receipts), both point to the Smart Receipts Library project. As a result, only the top-level Activity class can be found in this repository. The rest of the code base may be found at:
 
-- https://github.com/wbaumann/Smart-Receipts
+- https://github.com/wbaumann/SmartReceiptsLibrary
 
 Both versions of the Smart Receipts app can be found on the Play Store at:
 
