@@ -15,7 +15,7 @@ public final class R {
 		public static final int remove_mode = 0x7f010011;
 	}
 	public static final class drawable {
-		public static final int icon = 0x7f02015a;
+		public static final int icon = 0x7f020162;
 	}
 	public static final class id {
 		public static final int fling = 0x7f100003;
