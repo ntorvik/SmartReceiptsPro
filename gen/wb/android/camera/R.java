@@ -15,7 +15,7 @@ public final class R {
 		public static final int remove_mode = 0x7f010011;
 	}
 	public static final class drawable {
-		public static final int icon = 0x7f020162;
+		public static final int icon = 0x7f020176;
 	}
 	public static final class id {
 		public static final int fling = 0x7f100003;
@@ -25,11 +25,11 @@ public final class R {
 		public static final int slideRight = 0x7f100005;
 	}
 	public static final class layout {
-		public static final int main = 0x7f04003a;
+		public static final int main = 0x7f04003c;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f0e010d;
-		public static final int hello = 0x7f0e01b6;
+		public static final int app_name = 0x7f0a0000;
+		public static final int hello = 0x7f0a01e5;
 	}
 	public static final class styleable {
 		public static final int[] TouchListView = { 0x7f01000d, 0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011 };
