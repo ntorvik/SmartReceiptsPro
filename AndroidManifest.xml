@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="wb.receiptspro"
-      android:versionCode="92"
-      android:versionName="3.1.0">
+      android:versionCode="94"
+      android:versionName="3.1.1">
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="19" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -40,6 +40,14 @@
 				<action android:name="android.intent.action.VIEW" />
 				<category android:name="android.intent.category.DEFAULT" />
 				<data android:mimeType="application/smr" android:pathPattern=".*\\.smr"  android:host="*" />
+			</intent-filter>
+			
+			<!-- This seems to be the "key" one for SMRs. Need to define a 'scheme' here so it doesn't grab everything... 
+			content and file do not work as schemes -->
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:mimeType="application/octet-stream" android:pathPattern=".*\\.smr" android:host="*" />
 			</intent-filter>
 			
 			<!-- Filter to open with file browser -->
